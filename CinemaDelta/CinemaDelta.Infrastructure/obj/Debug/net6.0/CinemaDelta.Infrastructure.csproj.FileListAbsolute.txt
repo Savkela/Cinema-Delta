@@ -1,0 +1,14 @@
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\obj\Debug\net6.0\CinemaDelta.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\obj\Debug\net6.0\CinemaDelta.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\obj\Debug\net6.0\CinemaDelta.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\obj\Debug\net6.0\CinemaDelta.Infrastructure.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\obj\Debug\net6.0\CinemaDelta.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\bin\Debug\net6.0\CinemaDelta.Infrastructure.deps.json
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\bin\Debug\net6.0\CinemaDelta.Infrastructure.runtimeconfig.json
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\bin\Debug\net6.0\CinemaDelta.Infrastructure.dll
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\bin\Debug\net6.0\CinemaDelta.Infrastructure.pdb
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\obj\Debug\net6.0\CinemaDelta.Infrastructure.dll
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\obj\Debug\net6.0\refint\CinemaDelta.Infrastructure.dll
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\obj\Debug\net6.0\CinemaDelta.Infrastructure.pdb
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\obj\Debug\net6.0\CinemaDelta.Infrastructure.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\Cinema Delta praksa\CinemaDelta\CinemaDelta.Infrastructure\obj\Debug\net6.0\ref\CinemaDelta.Infrastructure.dll
